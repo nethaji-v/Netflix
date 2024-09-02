@@ -51,7 +51,7 @@ const Header = () => {
                 </Menu>
 
                 <Button className={styles['sign-in-button']} onClick={handleSignIn}>
-                    
+
                     Sign In
                 </Button>
             </Box>
@@ -69,9 +69,10 @@ const Header = () => {
                     </Button>
                 </Box>
             </Box>
-            <Box sx={{marginTop:"5%"}}>
-                    <img  src={line} alt="img" />
-                </Box>
+            <Box sx={{ marginTop: "7%", maxWidth: "100%", width: "100%" }}>
+                <img src={line} alt="img" style={{ width: "100%", height: "auto" }} />
+            </Box>
+
         </Box>
     );
 };
