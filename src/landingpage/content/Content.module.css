@@ -1,0 +1,176 @@
+
+
+.Color {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.Trending-Now{
+    color: white !important;
+   margin-Left : 8.8% !important;
+    font-Size: 30px !important
+}
+
+.main-Card {
+    margin-left: 8% !important;
+    margin-right: 12% !important;
+    position: relative !important;
+    display: flex !important; 
+    overflow-x: auto !important; 
+    overflow: hidden !important;
+    margin-top: 2% !important; 
+    padding: 1rem !important;
+    scroll-behavior: smooth !important; 
+}
+
+.card {
+    width: 200px !important;
+    height: 140 !important; 
+    margin-left: 2rem !important;
+    flex-shrink: 0 !important;
+    transition: transform 0.3s, box-shadow 0.3s !important;
+    border-radius: 8px !important;
+}
+
+.scroll-button-left, .scroll-button-right {
+    position: fixed !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: white !important;
+    z-index: 10 !important;
+}
+
+.scroll-button-left {
+    left: -24px !important; 
+}
+
+.scroll-button-right {
+    right: -24px !important; 
+}
+
+
+
+.card:hover{
+    transform: scale(1.05);
+            box-Shadow: 6,
+}
+
+.typography-custom{
+    font-Size:30px !important;
+    color:white !important;
+    margin-Top:6% !important;
+     margin-Left:8.8%  !important
+}
+
+.Frequently{
+    font-Size:30px !important;
+     color:white !important;
+     margin-Top:5% !important
+}
+.box-custom {
+ display: flex !important;
+ margin-Left: 7% !important; 
+ margin-Top: 1%  !important
+}
+
+.card-custom {
+    width: 290px;
+    height: 300px;
+    color: white !important;
+    margin: 1rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    border-radius: 7% !important;
+    background: linear-gradient(180deg, rgb(28, 27, 54) 0%, rgb(32, 16, 28) 100%) !important;
+}
+
+.accordion-summary-custom {
+    background-color: #2D2D2D !important;
+    margin-top: 1% !important;
+    color: white !important;
+}
+.accordion-summary-customs{
+   
+        background-Color: #2D2D2D !important;
+        margin-Top: 1% !important;
+        color: white !important;
+        
+}
+.accordion-summary-customs:hover {
+    background-color: #404040 !important;
+}
+.accordion-summary-custom:hover {
+    background-color: #404040 !important;
+}
+
+.accordion-details-custom {
+    background-color: #2D2D2D !important;
+}
+
+.typography-faq-custom {
+    padding: 10px !important;
+    font-size: 26px !important;
+    display: flex;
+}
+.typography-Ready{
+    margin-Top: 5% !important;
+    color: white;
+    text-Align: center 
+}
+.typography-ans-custom{
+   font-Size: 26px !important;
+   color: white;
+}
+.language-button {
+    margin-left: 115%!important;
+    margin-top: 20% !important;
+    margin-right: 1rem !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    color: #FFFFFF !important;
+    height: 40px;
+    width: 100px;
+    text-transform: capitalize !important;
+ 
+}
+
+.language-button:hover {
+    border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+
+
+.form-container {
+    margin-left: 8.5%;
+    display: flex;
+    margin-top: 1%;
+  
+}
+.get-started-button {
+    margin-left: 1% !important;
+    width: 210px !important;
+    color: white !important;
+    background-color: #E50914 !important;
+}
+.get-started-button:hover {
+    background-color: #f40612 !important;
+}
+.text-field {
+    width: 600px;
+    border-radius: 7px !important;
+    margin-left: 18% !important;
+    background-color: rgb(65,64,62) !important;
+    color: white !important;
+    background-image: none !important;
+    border: 3.5px solid transparent !important;
+
+}
+.text-field:focus-within{
+
+    border-color: white !important;
+    
+}
+
+.text-field input {
+    color: white !important; 
+}

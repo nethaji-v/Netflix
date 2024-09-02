@@ -1,0 +1,138 @@
+.container {
+    height: 100vh;
+    background-image: 
+        linear-gradient(7deg, 
+            rgba(0, 0, 0, 0.85) 10%, 
+            rgba(0, 0, 0, 0.8465) 17.25%, 
+            rgba(0, 0, 0, 0.8361) 24.5%, 
+            rgba(0, 0, 0, 0.8187) 31.75%, 
+            rgba(0, 0, 0, 0.7944) 39%, 
+            rgba(0, 0, 0, 0.7632) 46.25%, 
+            rgba(0, 0, 0, 0.725) 53.5%, 
+            rgba(0, 0, 0, 0.6868) 60.75%, 
+            rgba(0, 0, 0, 0.6556) 68%, 
+            rgba(0, 0, 0, 0.6312) 75.25%, 
+                rgba(0, 0, 0, 0.6139) 82.5%, 
+                rgba(0, 0, 0, 0.6035) 89.75%, 
+            rgba(0, 0, 0, 0.6) 97%
+        ), 
+        url('../../asset/netflixbg.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.headerstyle {
+    background-image: 
+        linear-gradient(180deg, 
+            rgba(0, 0, 0, 0.8000) 0%, 
+            rgba(0, 0, 0, 0.7889) 8.333%, 
+            rgba(0, 0, 0, 0.7556) 16.67%, 
+            rgba(0, 0, 0, 0.7000) 25%, 
+            rgba(0, 0, 0, 0.6222) 33.33%, 
+            rgba(0, 0, 0, 0.5222) 41.67%, 
+            rgba(0, 0, 0, 0.4000) 50%, 
+            rgba(0, 0, 0, 0.2778) 58.33%, 
+            rgba(0, 0, 0, 0.1778) 66.67%, 
+            rgba(0, 0, 0, 0.1000) 75%, 
+            rgba(0, 0, 0, 0.04444) 83.33%, 
+            rgba(0, 0, 0, 0.01111) 91.67%, 
+            rgba(0, 0, 0, 0.000) 100%
+        );
+    display: flex;
+    align-items: center;
+    padding: 1.5%;
+}
+
+.logo {
+    width: 11%;
+    margin-left: 8.8%;
+}
+
+.language-button {
+    margin-left: auto !important;
+    margin-right: 1rem !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    color: #FFFFFF !important;
+    height: 33px;
+    width: 120px;
+    text-transform: capitalize !important;
+}
+
+.language-button:hover {
+    border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.sign-in-button {
+    background-color: #E50914 !important;
+    color: #FFFFFF !important;
+    height: 33px;
+    margin-right: 8%!important;
+    width: 80px;
+    text-transform: lowercase !important;
+    box-shadow: 6;
+}
+
+.sign-in-button:hover {
+    background-color: #E50914 !important;
+}
+
+.main-title {
+    color: #FFFFFF;
+    font-size: 3.5rem !important;
+    font-weight: 800 !important;
+    text-align: center !important;
+}
+
+.subtitle {
+    color: #FFFFFF;
+    font-size: 1.3rem !important;
+    font-weight: 500 !important;
+    text-align: center !important;
+    margin-top: 1% !important;
+}
+
+.description {
+    color: #FFFFFF;
+    font-size: 1rem ;
+    font-weight: 500;
+    text-align: center !important;
+    margin-top: 2% !important;
+    margin-right: 5%;
+}
+
+.form-container {
+    margin-left: 28%;
+    display: flex;
+    margin-top: 1%;
+}
+
+.text-field {
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    color: black !important;
+    border-radius: 6px;
+    color: white !important;
+    border: 3.5px solid transparent !important;
+
+}
+.text-field:focus-within{
+
+    border-color: white !important;
+    
+}
+
+.text-field input {
+    color: white !important; 
+}
+
+.get-started-button {
+    margin-left: 1% !important;
+    width: 210px !important;
+    color: white !important;
+    background-color: #E50914 !important;
+}
+
+.get-started-button:hover {
+    background-color: #f40612 !important;
+}

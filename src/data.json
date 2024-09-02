@@ -1,0 +1,96 @@
+{
+  "reasons_to_join": {
+    "message": "More reasons to join",
+    "data": [
+      {
+        "name": "Enjoy on your TV",
+        "description": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more."
+      },
+      {
+        "name": "Download your shows to watch offline",
+        "description": "Save your favourites easily and always have something to watch."
+      },
+      {
+        "name": "Watch everywhere",
+        "description": "Stream unlimited movies and TV shows on your phone, tablet, laptop and TV."
+      },
+      {
+        "name": "Create profiles for kids",
+        "description": "Send kids on adventures with their favourite characters in a space made just for them — free with your membership."
+      }
+    ]
+  },
+
+
+  "faq": [
+    {
+      "question": "What is Netflix?",
+      "answer": "Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices. You can watch as much as you want, whenever you want, without a single ad – all for one low monthly price. There's always something new to discover, and new TV shows and movies are added every week!"
+    },
+    {
+      "question": "How much does Netflix cost?",
+      "answer": "Watch Netflix on your smartphone, tablet, Smart TV, laptop, or streaming device, all for one fixed monthly fee. Plans range from ₹149 to ₹649 a month. No extra costs, no contracts."
+    },
+    {
+      "question": "Where can I watch?",
+      "answer": "Watch anywhere, anytime. Sign in with your Netflix account to watch instantly on the web at netflix.com from your personal computer or on any internet-connected device that offers the Netflix app, including smart TVs, smartphones, tablets, streaming media players, and game consoles."
+    },
+    {
+      "question": "How do I cancel?",
+      "answer": "Netflix is flexible. There are no annoying contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account anytime."
+    },
+    {
+      "question": "What can I watch on Netflix?",
+      "answer": "Netflix has an extensive library of feature films, documentaries, TV shows, anime, award-winning Netflix originals, and more. Watch as much as you want, anytime you want."
+    },
+    {
+      "question": "Is Netflix good for kids?",
+      "answer": "The Netflix Kids experience is included in your membership to give parents control while kids enjoy family-friendly TV shows and films in their own space."
+    }
+  ],
+  "movies":[
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWeTztaJGDwXxWGUAorjZoxxswAh1kjgSi8QRSUjJZSVd6nkLgR4HZbZRVk5s2Zi9KfwCVY5G6RV7ZQvzFusJ36SQdEHVEZfCClSHd01n8qKzPQuc0oCI_16_N4lZlJFUFTLKSaLaC-RiQkGdytd8q3MXAiQmsCLzUwawRGv_goHXDw6_nojTg7k7cT-5MjQi-IE-zPHAQyF9CEYffzQxiVBaEwPzRANA1nKDVMDxrCpBv-MzIVHKYa3ueNhNAK7Lz-5wuB6kktk-Dcx1uH1t81nAzpJr37vr5vHyr_iLZUTFFTjvIJKcrGS1WRYVAPc58aE41to8chcClx5Q-_n39c.webp?r=22e"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSm_aD9gG6L1zulgU0wAnkKQPzBCBDEOhlWBng0YXGwuJuF8-caFPEGYdEh7rr3W5rxa7iO_lVP-WkZEuL0L5e76QZPAigCIQ1Q.webp?r=afe"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbSjHpeXSFb129wopx64f0EEMaoeIPbof0_CVeEXFNXp8OY4Hzwqy9RtUa9d8os9apgyCI899AcTebZZQ2_aHwIlBwtkaGuMt-M.webp?r=16a"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABT2K0eWN5KsiOq912bWcTK06XYIsr1sipalNxEz55bPozTxx3wdvKW4HvMQP9oUtG_H93Aasfv1MzDLKiiOoszXJpGqcWma1u9I.webp?r=d5c"
+    },
+    {
+
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdJor-4kPZc1j6rfPTnzEKS_7tHEf82D_VZDu98TtMvAyszw7kh6WgtbmWaZ2HkbJpNnG3YSDbOTfWOypbzrgRSvNelutNJNvHQ.webp?r=b18"
+    },
+    {
+       "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR9N6dzfCF3Lwfy0oLDLM2-2HAzo_Eq4ar7Yn-y61UvKqfuWTY9XzSP8r7Jniw6GjXxVua3s1Ej9VLz9IK9fuGZkXurOwogDlTJqwVZBw7Y__8sx7TXdG7UGp_TkwEvoQYnJ8at6PkNlINboj8eNwAwazBL13azmQmUKVhfrqeY_UizFhfoDLxXoxX5gAfj_mwf_gjF0TDvvphhIjpuGuTxFjwavIKxRYaFU3epYz4dXBr7r54pdpMdLekJhWA4OH_GBqxUe2TEk9TK2h8bPS914aqpvNwbLoGnl5annczubH6fqUqNtVkwWL7abrlfjAjU3Kh1fg8On3srvq2WHdHc.webp?r=1a8"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYvJM6LNx5Ahk1AFRuLVghlc_f-m7MViSPqmBFfnBDlPk02b-cIvnu7Rp028v1t6Iq1bhBi9Dy89wVnnsrdpwONL6BbP7buIqag.webp?r=904"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf2LYT0qEhnjqBrQ8Omnpx9jRSiL3rYOo-qV2eLoIOkUl9nZiMUB2vyrFtjqPMoRQIfYLfn4D-mKIUTvW0upuIzVPPoM6F2u6V8.webp?r=2ea"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdyNtXZHVzRYC8NzDlWELptBWnX1zXRghOVYG1MRA7EsdqTGVZD5OXX15L2jMUMImUzaPDPN89RcHH5N2nSRjQC8i3soXWm3p2o.webp?r=ef8"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUO0V3ePx6gm9Xbc3Gy1t_o24bIOWeIODQaxZgezevP5s0bvx6izD6qnTUHtv_OQgHw2Ii_NTE0fMte4_Ds8v0C-r6kpA1m4vOA.webp?r=741"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaKyo5nYVngVK2WURpU_XdU3s64MMTKh4upuiBHN7IorDT4cfJn_BIYd3US0YM8HLXRWkAXeSck6OUImCgeM1SWtz_JU9NUAy-GG-T9OnNaZcMbB40QC7HE60e9W0D-sOjSDPcjIsCSFPOSa95qFnXdUdFw-VCLaOOtwEWH22W3ZgrZaEVVXEz-WgictQ-mqtPfysanay1qb7-XEfjcwHVY-fd6DX7a3k_TdCZrO1XR7hlUgp9Y4X9Kd6zQoQOsJRSjCSmnr3XZwgURTlgvNj6CA_uKC.webp?r=2be"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR-x8Kiy7fu8mK_csngmPUF3O9cKohd2m_NacaGldhRULVTcefzDBv3T6JfmmLNFJwKhU9bHcf_rRZ8k4znyeWtKrfloRCn47og.webp?r=8ea"
+    },
+    {
+      "url":"https://occ-0-5556-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYYQTIW369ZwRt10OsPPaXmcvApPyFsgCvXofmojqg_tt6Lc8e5fiPOzGFediecbKMlq6S5DyjwCR0hKq9Sax5XtYVVi4fcfn94.webp?r=7e4"
+    }
+  ]
+  
+}
+
+

@@ -1,0 +1,197 @@
+.container {
+    height: 100vh;
+    background-image: 
+        linear-gradient(7deg, 
+            rgba(0, 0, 0, 0.85) 10%, 
+            rgba(0, 0, 0, 0.8465) 17.25%, 
+            rgba(0, 0, 0, 0.8361) 24.5%, 
+            rgba(0, 0, 0, 0.8187) 31.75%, 
+            rgba(0, 0, 0, 0.7944) 39%, 
+            rgba(0, 0, 0, 0.7632) 46.25%, 
+            rgba(0, 0, 0, 0.725) 53.5%, 
+            rgba(0, 0, 0, 0.6868) 60.75%, 
+            rgba(0, 0, 0, 0.6556) 68%, 
+            rgba(0, 0, 0, 0.6312) 75.25%, 
+                rgba(0, 0, 0, 0.6139) 82.5%, 
+                rgba(0, 0, 0, 0.6035) 89.75%, 
+            rgba(0, 0, 0, 0.6) 97%
+        ), 
+        url('../../asset/netflixbg.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.headerstyle {
+    background-image: 
+        linear-gradient(180deg, 
+            rgba(0, 0, 0, 0.8000) 0%, 
+            rgba(0, 0, 0, 0.7889) 8.333%, 
+            rgba(0, 0, 0, 0.7556) 16.67%, 
+            rgba(0, 0, 0, 0.7000) 25%, 
+            rgba(0, 0, 0, 0.6222) 33.33%, 
+            rgba(0, 0, 0, 0.5222) 41.67%, 
+            rgba(0, 0, 0, 0.4000) 50%, 
+            rgba(0, 0, 0, 0.2778) 58.33%, 
+            rgba(0, 0, 0, 0.1778) 66.67%, 
+            rgba(0, 0, 0, 0.1000) 75%, 
+            rgba(0, 0, 0, 0.04444) 83.33%, 
+            rgba(0, 0, 0, 0.01111) 91.67%, 
+            rgba(0, 0, 0, 0.000) 100%
+        );
+    display: flex;
+    align-items: center;
+    padding: 1.5%;
+}
+
+.logo {
+    width: 11%;
+    margin-left: 8.8%;
+}
+
+.border{
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-top: 2%;
+    width:30% !important;
+    height: 84% !important;
+    background-color: rgb(6, 7, 7);
+    opacity: 0.5;
+}
+
+.sign{
+    color:white !important;
+    font-Size:2rem !important;
+    font-Weight:700 !important;
+    margin-Top:7% !important;
+    margin-Left:12% !important;
+}
+
+.text-field {
+    width: 350px;
+    border-radius: 7px !important;
+    margin-top: 7% !important;
+    margin-left: 12% !important;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    color: white!important;
+    border: 3.5px solid transparent !important;
+}
+
+.text-field:focus-within{
+
+    border-color: white !important;
+    
+}
+
+.text-field input {
+    color: white !important; 
+}
+
+
+.text-field-password{
+    width: 350px;
+    border-radius: 7px !important;
+    margin-top: 4% !important;
+    margin-left: 12% !important;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    color:white!important;
+    border: 3.5px solid transparent !important;
+
+}
+.text-field-password:focus-within{
+
+    border-color: white !important;
+    
+}
+
+.text-field-password input {
+    color: white !important; 
+}
+
+.sign-in-button {
+    margin-left: 12% !important;
+    margin-top: 4% !important;
+    width: 350px !important;
+    height: 40px !important;
+    color: white !important;
+    background-color: #E50914 !important;
+    text-transform: capitalize !important;
+
+}
+
+.sign-in-button:hover {
+    background-color: #f40612 !important;
+    
+}
+
+.typography-style{
+    color: white !important;
+    text-align: center;
+    margin-top: 5% !important;
+
+}
+.sign-in-code-button{
+    margin-left: 12% !important;
+    margin-top: 4% !important;
+    width: 350px !important;
+    height: 40px !important;
+    color: white !important;
+    background-color: rgb(133, 141, 141) !important;
+    text-transform: capitalize !important;
+
+}
+.sign-in-code-button:hover{
+    background-color: rgb(197, 190, 190)!important;
+
+}
+
+.typography-style-forgat{
+    text-align: center !important;
+    color: white;
+    margin-top: 4% !important;
+    font-Size:1rem !important;
+    font-weight: 15;
+    text-transform: capitalize !important;
+
+}
+.typography-style-forgat:hover{
+    text-decoration: underline;
+}
+
+.formgroup-checkbox{
+    color: white !important;
+    margin-left: 12% !important;
+    margin-top: 4%;
+}
+.formgroup-Checkbox{
+    color: white !important;
+    border-radius: 0% !important;
+}
+
+.formgroup-Checkbox:hover{
+    border-color: white !important;
+
+}
+.typography-New-to-Netflix{
+    color: white !important;
+    margin-left: 12% !important;
+    margin-top: 4%;
+}
+.span-sign:hover{
+    text-decoration: underline;
+
+}
+.typography-reCAPTCHA{
+    color: rgb(249, 246, 246) !important;
+    margin-left: 12% !important;
+    margin-top: 9% !important;
+    font-size: 0.8rem !important;
+    margin-right: 20% !important;
+}
+
+.span-Learn-more{
+    color: rgb(2, 139, 251) !important;
+}
+.span-Learn-more:hover{
+    text-decoration: underline !important;
+}
